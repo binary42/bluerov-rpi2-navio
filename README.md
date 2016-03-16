@@ -19,5 +19,11 @@ Build instructions for the Raspbian ARM install of ROS using catkin_make_isolate
 
 http://wiki.ros.org/ROSberryPi/Installing%20ROS%20Indigo%20on%20Raspberry%20Pi
 
+#ArduSub Usage
+
+Run ArduSub as: ./ArduSub.elf -A udp:[ip of host pc]:14550
+
+Run your GCS as desired, i.e. qgroundcontrol or apmplanner or missionplanner. Set up yoru connection as UDP.
+
 #Contributing
 Merge requests preferred.
