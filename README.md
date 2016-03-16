@@ -1,5 +1,5 @@
 # bluerov-rpi2-navio
-Image repo for cctronics-ros-rqt RPi2 image including bluerov stack, navio+ interface and PREMPT RT kenel, and Arsub (navio+) including 4vector and standard bluerov config builds.
+Image repo for cctronics-ros-rqt RPi2 image including bluerov stack, navio+ interface and PREMPT RT kenel, and Arsub (navio+) including the standard bluerov config builds.
 
 The cctronics clean image can be found at:
 
